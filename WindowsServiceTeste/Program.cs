@@ -15,7 +15,7 @@ namespace WindowsServiceTeste
         static void Main()
         {
             ServiceBase[] ServicesToRun;
-            ServicesToRun = new ServiceBase[] 
+            ServicesToRun = new ServiceBase[1] 
             { 
                 new Service1() 
             };
