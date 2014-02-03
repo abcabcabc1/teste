@@ -1,0 +1,1 @@
+c:\users\vitormendes\documents\visual studio 2013\Projects\WindowsServiceTeste\WindowsServiceTeste\bin\Debug\WindowsServiceTeste.exe.config
